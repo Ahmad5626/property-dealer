@@ -1,0 +1,311 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.Properties-img1 {
+    position: relative;
+    overflow: hidden;
+    height: 300px;
+    background: #0e1622;
+    position: relative;
+}
+.properties-main-text {
+    position: absolute;
+    color: white;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.Properties-img1 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: .7;
+}
+.properties-main-text {
+    position: absolute;
+    color: white;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'Quintessential', cursive;
+}
+.pro-delails-box1{
+    background-color: #f1f2f2;
+}
+
+.pro-delails-box1-child1{
+    max-width: 1140px;
+    margin: 0px auto; 
+     position: relative;
+     
+}
+.pro-delails-box1-child1-fst-line{
+    width: 80%;
+    display: flex;
+   justify-content: space-between;
+    min-height: 60px;
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 0 2px 3px 0 #d8d8d8;
+    position: absolute;
+    left: 50%;
+    top: 0%;
+    font-family: 'Poppins', sans-serif;
+   
+    transform: translate(-50%,-50%);
+  
+}
+.pro-de-fst-line{
+    margin: 8px 0 5px;
+    border-right: 1px solid #f2f2f2;
+    padding: 12px;
+}
+.pro-de-fst-line a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+    font-size: 14px;
+    column-gap: 10px;
+    color: #575757;
+}
+
+.Investment-Returns1{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 40px 0px
+}
+.Investment-Returns1-child1{
+    width: 68%;
+    
+ 
+}
+.Investment-Returns1-child1 img{
+    width: 100%;
+
+}
+.Investment-Returns1-child2{
+    width: 30%;
+
+  
+}
+.Irc{
+    width: 100%;
+    border: 1px solid #f1f2f2;
+    background: #fff;
+    color: #000;
+}
+.Irc-1{
+    display: flex;
+    justify-content: space-between;
+ padding: 00px 00px 0px 20px;
+ padding-bottom: 5px;
+ border-bottom: 1px solid #b5b5b5;
+}
+.Irc-1-1{
+    font-size: 14px;
+    padding: 10px 0px ;
+
+}
+.Irc-1-1 p{
+    font-weight: 500;
+}
+.Irc-1-1 span{
+    font-size: 12px;
+    color: #575757;
+}
+.Irc-1-2{
+    width: 20%;
+    background-color:#24c7ec;
+    padding: 5px;
+    font-size: 10px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+.Irc-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: 'Poppins', sans-serif;
+    padding: 30px 10px ;
+}
+.Irc-2-1{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px ;
+   
+}
+.Irc-2-1 p{
+    font-weight: 500;
+    font-size: 14px;
+}
+.Irc-2-1 img{
+    width: 32%;
+    display: inline-block;
+    background-color: #f1f2f2;
+    padding: 5px 5px;
+    border-radius: 50%;
+}
+.Irc-2-1 span{
+    font-size: 11px;
+    color:#575757;
+}
+.Irc-3{
+    padding: 20px 40px ;
+}
+.Irc-3 button{
+    display: block;
+    width: 100%;
+    padding:12px 0px ;
+    background-color: #1d3834;
+    color: white;
+    font-size: 15px;
+    transition: 0.5s;
+}
+.Irc-3 button:hover{
+    background-color: transparent;
+    border: 2px solid #1d3834;
+    color: #1d3834;
+}
+
+.Investment-Returns1-child1-text1{
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.irc2{
+    padding-top: 80px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.Investment-Returns1-child1-text2{
+    padding: 50px;
+}
+.I-text1{
+    font-family: 'Poppins', sans-serif;
+}
+.T-text2{
+    background-color: white;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px 20px;
+}
+.T-text2 span{
+    display: inline-block;
+    padding-right: 20px;
+    
+}
+.irc3{
+    width: 100%;
+    border: 1px solid #f1f2f2;
+    background: #fff;
+    color: #000;
+    padding: 30px;
+    margin-top: 50px;
+}
+.irc3 p{
+    padding-bottom: 20px;
+    font-size: 14px;
+    line-height: 28px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Investment-Returns1-child1-text3 iframe{
+    width: 100%;
+    height: 400px;
+
+}
+.Investment-Returns1-child1-text4{
+  
+}
+.Investment-Returns1-child1-text4 table tbody{
+    padding: 0px 20px !important;
+   
+ 
+}
+
+.Investment-Returns1-child1-text4 table th{
+padding: 30px 10px;
+font-size: 12px;
+font-family: 'Poppins', sans-serif;
+}
+.Investment-Returns1-child1-text4 table td{
+    padding: 30px 0px;
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    
+    }
+    .irc4{
+        padding: 30px;
+        width: 100%;
+    border: 1px solid #f1f2f2;
+    background: #fff;
+    color: #000;
+    margin-top: 50px;
+    font-family: 'Poppins', sans-serif;
+    }
+    .irc4-1{
+        margin: 30px 0px;
+    }
+    .irc4-1-text1{
+        font-size: 15px;
+    }
+    .irc4-1-text2{
+        font-size: 13px;
+        color: #4a4b4b;
+    }
+    .irc4-1 button{
+        display: inline-block;
+        width: 100%;
+        border: 1px solid #4a4b4b;
+        color: black;
+        padding: 10px 0px;
+        background-color: transparent;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+
+    @media(max-width:800px){
+        .Investment-Returns1{
+            
+            flex-direction: column;
+            padding-top: 100px;
+            justify-content: center;
+            align-items: center;
+            
+        } 
+        .Investment-Returns1-child1{
+            width: 90%;
+        }
+        .Investment-Returns1-child1-text4{
+            overflow: auto;
+        }
+        .Investment-Returns1-child2{
+            width: 90%;
+        }
+        .pro-delails-box1-child1-fst-line{
+            width:90%;
+            display: flex;
+           flex-wrap: wrap;
+
+          
+            
+            
+            
+          
+        }
+    }

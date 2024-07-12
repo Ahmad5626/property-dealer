@@ -1,0 +1,63 @@
+company@example.com
+
+ Name              Working    
+
+ 
+ Rotas              yes
+ Company            yes
+ Employee           yes
+ Location           yes
+ Role               Yes
+ add Employee       yes  SMTP is not working
+ payslip            Yes
+ Leave              yes
+ Availability       yes
+ Manage Timesheet   yes
+ Contract           yes
+ Zoom Meeting       No
+ Company Settings   yes   SMTP is not working
+ Email Settings     yes   SMTP is not working
+ Zoom Settings      NO
+
+
+
+
+manager@example.com
+
+ Name              Working    
+
+ 
+ Rotas              yes
+ Company            yes
+ Employee           yes
+ add Employee       yes  SMTP is not working
+ Leave              yes
+ Availability       yes
+ Manage Timesheet   yes
+ Zoom Meeting       No    SMTP is not working
+ 
+
+superadmin@example.com
+ Name              Working    
+
+ 
+ User              yes  SMTP is not working
+ Plan              yes
+ Coupon            yes
+ Menu Bar          yes  
+ Leave               yes
+ Availability       yes
+ Manage Timesheet   yes
+ Zoom Meeting       No    SMTP is not working
+
+
+
+ ahmad@example.com
+ Name              Working    
+
+ 
+
+ Leave               yes
+ Availability       yes
+ Manage Timesheet   yes
+ Zoom Meeting       No    SMTP is not working
